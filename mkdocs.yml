@@ -1,0 +1,22 @@
+site_name: Poradnik Git & GitHub
+
+theme:
+  name: material
+  
+  palette:
+    - scheme: default
+      primary: teal
+      accent: indigo
+    - scheme: slate
+      primary: teal
+      accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+
+nav:
+  - Strona główna: index.md
+  - Temat projektu: temat.md
+  - Teoria: teoria.md
+  - Przykłady: przyklady.md
+  - Autorzy: autorzy.md
