@@ -10,7 +10,6 @@ GitHub to platforma chmurowa, która pozwala na przechowywanie lokalnych repozyt
 ---
 
 📥 Sekcja 1: Zapisywanie zmian i wysyłanie na serwer
-(Opracowanie: Osoba B)
 
 💾 Operacja: Commit
 Commit (zatwierdzenie) to podstawowa jednostka w historii Gita. Można go porównać do „migawki” (ang. snapshot) stanu całego projektu w danym momencie. Każdy commit tworzy trwały punkt w historii, do którego można w każdej chwili powrócić. Dobrą praktyką jest tworzenie małych, logicznych commitów opatrzonych jasnym komentarzem opisującym wprowadzane zmiany.
@@ -21,7 +20,6 @@ Push (wypchnięcie) to proces synchronizacji lokalnych zmian z repozytorium zdal
 ---
 
 📤 Sekcja 2: Pobieranie projektu i synchronizacja zmian
-(Opracowanie: Osoba C)
 
 🧪 Operacja: Clone
 Clone (klonowanie) to operacja wykonywana zazwyczaj tylko raz na początku pracy z projektem. Służy do pobrania kompletnego repozytorium z serwera zdalnego (GitHub) na lokalny dysk twardy komputera. W przeciwieństwie do zwykłego pobrania archiwum ZIP, operacja clone konfiguruje automatyczne połączenie z serwerem i pobiera pełną historię wszystkich dotychczasowych commitów oraz gałęzi.

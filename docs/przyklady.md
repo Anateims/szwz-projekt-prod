@@ -1,7 +1,6 @@
 # Praktyczny podręcznik komend i cykl pracy
 
 ## 📊 Ściągawka z podstawowych poleceń Gita
-*(Opracowanie: Kierownik Projektu)*
 
 Poniższa tabela przedstawia zestawienie kluczowych komend terminala Git, które są niezbędne do codziennego zarządzania projektem deweloperskim.
 
@@ -17,7 +16,6 @@ Poniższa tabela przedstawia zestawienie kluczowych komend terminala Git, które
 ---
 
 💻 Praktyczny przykład: Klasyczny cykl pracy zespołowej
-(Opracowanie: Osoba C)
 
 Poniższy scenariusz prezentuje prawidłową sekwencję komend w terminalu Git Bash podczas codziennej pracy nad wspólnym plikiem tekstowym, minimalizującą ryzyko wystąpienia konfliktów.
 
