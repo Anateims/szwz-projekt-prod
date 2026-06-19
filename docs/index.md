@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Witamy w poradniku Git & GitHub! 👋
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 🚀 O projekcie
+Witaj na oficjalnej stronie naszego projektu studenckiego. Znajdziesz tutaj kompleksowy i napisany prostym językiem poradnik, który pomoże Ci opanować podstawy rozproszonego systemu kontroli wersji **Git** oraz platformy **GitHub**.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Nasz podręcznik został podzielony na kilka sekcji, po których możesz wygodnie nawigować za pomocą menu:
+* **Temat i Cel** – dowiesz się, dlaczego kontrola wersji jest kluczowa w pracy inżyniera.
+* **Podstawy Teoretyczne** – wyjaśniamy pojęcia takie jak Commit, Push, Pull i Clone.
+* **Praktyczne Przykłady** – gotowa ściągawka z komend i bezpieczny cykl pracy krok po kroku.
+* **Autorzy** – informacje o zespole tworzącym ten projekt.
